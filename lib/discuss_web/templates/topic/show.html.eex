@@ -1,0 +1,4 @@
+
+<h1>Success: <%= @changeset["id"] %></h1>
+
+<p>Note: to inject a variable, use @input</p>
